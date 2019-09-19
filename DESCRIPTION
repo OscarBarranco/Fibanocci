@@ -1,0 +1,13 @@
+Package: Fibanocci
+Title: Compute the n-th fibanocci number
+Version: 0.0.1.0
+Depends: R (>= 3.0.0)
+Author:Oscar Barranco <oscarbv@ciencias.unam.mx>
+Maintainer: Oscar Barranco <oscarbv@ciencias.unam.mx>
+Description: Computes the n-th fibanocci number.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
