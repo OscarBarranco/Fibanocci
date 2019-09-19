@@ -1,6 +1,6 @@
 Package: Fibanocci
 Title: Compute the n-th fibanocci number
-Version: 0.0.1.0
+Version: 0.0.1.1
 Depends: R (>= 3.0.0)
 Author:Oscar Barranco <oscarbv@ciencias.unam.mx>
 Maintainer: Oscar Barranco <oscarbv@ciencias.unam.mx>
